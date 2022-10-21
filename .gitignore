@@ -3,4 +3,5 @@
 *.etc
 
 target
+target/
 bin
